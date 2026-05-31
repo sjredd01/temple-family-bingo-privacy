@@ -1,59 +1,66 @@
-# Privacy Policy
+# Temple & Family History Bingo — Support
 
-**Effective date:** May 31, 2026
-**App:** Temple & Family History Bingo
-**Developer:** Sam Redd (sjredd01@gmail.com)
+A simple, offline iOS app that turns temple and family history goals into a 4×4 bingo card. A square a day — 16 to win.
 
-This privacy policy describes how Temple & Family History Bingo (the "App") handles information. The short version: the App is designed to work offline and does not collect, transmit, or share any personal information.
+- **Privacy policy:** [sjredd01.github.io/temple-family-bingo-privacy](https://sjredd01.github.io/temple-family-bingo-privacy/)
+- **Support email:** [sjredd01@gmail.com](mailto:sjredd01@gmail.com)
+- **Response time:** Usually within a few days. Please include your iOS version and what you were doing when the issue happened.
 
-## Information the App Stores
+---
 
-The App stores the following on your device only, using the operating system's local preferences storage:
+## Frequently Asked Questions
 
-- The name you enter when you set up your bingo card
-- The randomized order of your bingo squares
-- Which squares you have checked
-- Your selected language (English or Spanish)
-- Your selected theme and light/dark mode preference
+### How do I start a new card?
 
-This information never leaves your device. It is not sent to the developer, to any server, or to any third party. There is no account system, no sign-in, and no cloud sync.
+When you first open the app, enter your name and tap **Begin my card**. Your name seeds the layout of your bingo board, so once it's set the squares stay in the same positions — only your check‑marks change.
 
-## Information the App Does Not Collect
+### How do I reset my card or start over?
 
-The App does **not** collect, request, or transmit:
+Tap the gear icon to open Settings, then tap **Sign out**. You'll be returned to the name‑entry screen where you can begin a fresh card.
 
-- Your name, email address, phone number, or any other contact information
-- Your location
-- Your device identifier or advertising identifier
-- Analytics, usage statistics, or crash reports
-- Contacts, photos, microphone, camera, or any other device data
-- Information about your activity in other apps or on other websites
+### How do I change the language?
 
-## Third-Party Services
+Open Settings (gear icon) and choose **English** or **Español** under the **Language** section. Your selection is saved.
 
-The App uses the **Google Fonts** package to render its typography. The first time the App runs (and occasionally thereafter), it may download font files from Google's font service. Google may log standard request metadata (such as IP address and user-agent) as part of serving those files. The App itself does not send any personally identifying information in those requests. See [Google's Privacy Policy](https://policies.google.com/privacy) for details.
+### How do I change the theme or switch to dark mode?
 
-No other third-party services, SDKs, analytics tools, or advertising networks are integrated into the App.
+Open Settings (gear icon). Under **Theme**, pick from Indigo, Forest, Rose, or Hot Pink. Under **Appearance**, choose **Light** or **Dark**.
 
-## Children's Privacy
+### Where is my progress stored? Will I lose it if I uninstall?
 
-The App does not knowingly collect personal information from anyone, including children under 13. Because no information is collected or transmitted, the App is safe for use by family members of all ages.
+All of your progress — your name, your board, your check‑marks, your preferences — is stored locally on your device. There is no cloud sync and no account. **Uninstalling the app will delete your progress permanently.**
 
-## Data Deletion
+### Can I transfer my progress to a new phone?
 
-Because all of your data is stored locally on your device, you can delete it at any time by either:
+Not at this time — the app does not sync across devices. If you set up the app on a new phone, you'll start with a fresh card.
 
-1. Clearing the App's data through your device's Settings, or
-2. Uninstalling the App.
+### Does the app collect any personal information?
 
-There is no server-side data to request deletion of.
+No. The app works entirely offline (aside from initially downloading display fonts) and does not collect, transmit, or share any personal information. See the [Privacy Policy](https://sjredd01.github.io/temple-family-bingo-privacy/) for full details.
 
-## Changes to This Policy
+### Is this an official app of The Church of Jesus Christ of Latter-day Saints?
 
-If this policy changes in a future release, the updated version will be published in this repository and the "Effective date" above will be updated. Material changes will also be noted in the App's release notes.
+No. This is an independent project created by a member of the Church. It is **not affiliated with or endorsed by The Church of Jesus Christ of Latter-day Saints or FamilySearch International**.
 
-## Contact
+---
 
-Questions about this policy can be directed to:
+## Report a Bug or Suggest a Feature
 
-**Sam Redd** — sjredd01@gmail.com
+Please email [sjredd01@gmail.com](mailto:sjredd01@gmail.com) with:
+
+1. A short description of the problem (or the feature you'd like to see)
+2. Your iOS version (Settings → General → About → iOS Version)
+3. What you were doing when the problem happened
+4. A screenshot if relevant
+
+---
+
+## App Information
+
+| | |
+|---|---|
+| **App name** | Temple & Family History Bingo |
+| **Platform** | iOS (iPhone) |
+| **Developer** | Sam Redd |
+| **Contact** | sjredd01@gmail.com |
+| **Privacy policy** | [sjredd01.github.io/temple-family-bingo-privacy](https://sjredd01.github.io/temple-family-bingo-privacy/) |
